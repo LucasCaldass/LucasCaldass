@@ -1,5 +1,5 @@
 Welcome to my profile !!!
-- 🔭 Working on some personal game projects
+- 🔭 Cibersecurity Enthusiat
 - 🌱 Computer Science student
 
 <div align="left">
